@@ -1,0 +1,2 @@
+[workspace]
+members = ["someip-filter", "someip-filter-common", "xtask"]
